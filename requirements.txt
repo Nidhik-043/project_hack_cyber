@@ -1,0 +1,4 @@
+colorama
+jinja2
+requests
+scapy
